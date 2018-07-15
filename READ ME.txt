@@ -1,0 +1,8 @@
+Sentient Trip Advisor
+
+
+How to run:
+Go to the directory .
+1. pip install - r requirements.txt
+2. Please Provide your Expedia API Key, Google API, Watson API Key ( Assistant, NPL) in the config.py
+3. python app.py
